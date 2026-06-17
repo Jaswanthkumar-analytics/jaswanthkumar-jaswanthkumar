@@ -1,4 +1,4 @@
-# Hi, I'm Jaswanth Kumar Param 👋
+# Hi, I'm Jaswanth Kumar Param 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=3000&pause=1000&color=000000&center=false&vCenter=false&width=500&lines=Data+Analyst;SQL+Enthusiast;Python+Learner;Business+Intelligence+Explorer">
 
@@ -16,9 +16,9 @@ I am an aspiring Data Analyst who loves transforming raw data into meaningful bu
 
 ### Programming
 
-🐍 Python
+ Python
 
-🗄 SQL
+ SQL
 
 
 ### Data Analysis
